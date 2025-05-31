@@ -1,240 +1,116 @@
-[21:17:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:17:40] [ServerMain/INFO]: Loaded 7 recipes
-[21:17:40] [ServerMain/INFO]: Loaded 1271 advancements
-[21:17:41] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:17:41] [Server thread/INFO]: Loading properties
-[21:17:41] [Server thread/INFO]: Default game type: SURVIVAL
-[21:17:41] [Server thread/INFO]: Generating keypair
-[21:17:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:17:41] [Server thread/INFO]: Using epoll channel type
-[21:17:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:17:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:17:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:17:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:17:41] [Server thread/INFO]: Preparing level "world"
-[21:17:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:17:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:17:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:18:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:18:20] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[21:18:20] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[21:18:21] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[21:18:21] [Worker-Main-1/INFO]: Preparing spawn area: 26%
-[21:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 27%
-[21:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 29%
-[21:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 29%
-[21:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 31%
-[21:18:24] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[21:18:24] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[21:18:25] [Worker-Main-1/INFO]: Preparing spawn area: 33%
-[21:18:25] [Worker-Main-1/INFO]: Preparing spawn area: 33%
-[21:18:26] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[21:18:26] [Worker-Main-1/INFO]: Preparing spawn area: 35%
-[21:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 37%
-[21:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:28] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:28] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:29] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:29] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:31] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:31] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:32] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:32] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:33] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:33] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:34] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:34] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:35] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:35] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:36] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:36] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:37] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:37] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:38] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:38] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:39] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:39] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:40] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:40] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:41] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:41] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:42] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:42] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:43] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:43] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:44] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:44] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[21:18:46] [Worker-Main-1/INFO]: Preparing spawn area: 65%
-[21:18:47] [Server thread/INFO]: Time elapsed: 52699 ms
-[21:18:47] [Server thread/INFO]: Done (66.164s)! For help, type "help"
-[21:19:19] [Server thread/INFO]: LaCiri[/127.92.210.7:52097] logged in with entity id 118 at (87.5, 64.0, 240.5)
-[21:19:19] [Server thread/INFO]: LaCiri joined the game
-[21:19:52] [Server thread/INFO]: [Not Secure] <LaCiri> uy
-[21:20:41] [Server thread/INFO]: Shadowne_[/127.73.121.19:49991] logged in with entity id 711 at (81.5, 65.0, 248.5)
-[21:20:41] [Server thread/INFO]: Shadowne_ joined the game
-[21:20:53] [Server thread/INFO]: [Not Secure] <Shadowne_> xd
-[21:20:55] [Server thread/INFO]: [Not Secure] <LaCiri> ola
-[21:21:05] [Server thread/INFO]: [Not Secure] <LaCiri> dnd estas xd?
-[21:21:13] [Server thread/INFO]: Made Shadowne_ a server operator
-[21:21:19] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to LaCiri]
-[21:21:23] [Server thread/INFO]: [Not Secure] <Shadowne_> xd
-[21:21:25] [Server thread/INFO]: [Not Secure] <LaCiri> me asusto
-[21:21:51] [Server thread/INFO]: [Not Secure] <Shadowne_> este servidor es potente
-[21:22:00] [Server thread/INFO]: [Not Secure] <LaCiri> xd?
-[21:22:04] [Server thread/INFO]: [Not Secure] <Shadowne_> es el que uso pa jugar con el alex mods pesados xd
-[21:22:14] [Server thread/INFO]: [Not Secure] <LaCiri> uy
-[21:22:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:22:31] [Server thread/INFO]: xdd<--[HERE]
-[21:23:25] [Server thread/INFO]: Shadowne_ has made the advancement [Stone Age]
-[21:23:45] [Server thread/INFO]: LaCiri has made the advancement [Stone Age]
-[21:24:20] [Server thread/INFO]: LaCiri has made the advancement [Getting an Upgrade]
-[21:24:46] [Server thread/INFO]: Shadowne_ has made the advancement [Getting an Upgrade]
-[21:25:04] [Server thread/INFO]: [Not Secure] <LaCiri> hierrooo
-[21:25:14] [Server thread/INFO]: [Not Secure] <Shadowne_> xd
-[21:25:28] [Server thread/INFO]: [Not Secure] <Shadowne_> cocinalo pues
-[21:26:10] [Server thread/INFO]: LaCiri has made the advancement [Acquire Hardware]
-[21:26:21] [Server thread/INFO]: Shadowne_ has made the advancement [Acquire Hardware]
-[21:26:23] [Server thread/INFO]: [Not Secure] <LaCiri> pa uste
-[21:29:00] [Server thread/INFO]: [Not Secure] <LaCiri> casi me muero xddd
-[21:29:04] [Server thread/INFO]: [Not Secure] <Shadowne_> XDD
-[21:30:45] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to LaCiri]
-[21:32:25] [Server thread/INFO]: [Not Secure] <Shadowne_> ay
-[21:32:31] [Server thread/INFO]: [Not Secure] <LaCiri> oh no
-[21:32:57] [Server thread/INFO]: Shadowne_ was blown up by Creeper
-[21:33:02] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to LaCiri]
-[21:33:07] [Server thread/INFO]: [Not Secure] <LaCiri> veni
-[21:33:19] [Server thread/INFO]: Shadowne_ has made the advancement [Monster Hunter]
-[21:33:35] [Server thread/INFO]: [Not Secure] <Shadowne_> grax
-[21:33:36] [Server thread/INFO]: [Not Secure] <LaCiri> xddd
-[21:34:04] [Server thread/INFO]: [Not Secure] <LaCiri> donde estas
-[21:34:09] [Server thread/INFO]: Shadowne_ was shot by Skeleton
-[21:34:13] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to LaCiri]
-[21:34:19] [Server thread/INFO]: LaCiri has made the advancement [Monster Hunter]
-[21:35:05] [Server thread/INFO]: [Not Secure] <LaCiri> mano me encerre xddd
-[21:35:16] [Server thread/INFO]: [Not Secure] <Shadowne_> se robaron mis cosas
-[21:35:19] [Server thread/INFO]: [Not Secure] <LaCiri> xddd
-[21:35:27] [Server thread/INFO]: [Not Secure] <LaCiri> tengo media vida
-[21:35:28] [Server thread/INFO]: [Not Secure] <LaCiri> vali
-[21:35:32] [Server thread/INFO]: [Not Secure] <Shadowne_> me van a viollar
-[21:35:38] [Server thread/INFO]: Shadowne_ was slain by Spider
-[21:35:42] [Server thread/INFO]: [Not Secure] <LaCiri> JAJAJJA
-[21:35:49] [Server thread/INFO]: [Not Secure] <Shadowne_> te lo dije
-[21:36:00] [Server thread/INFO]: [Not Secure] <LaCiri> tengo medio corazon
-[21:36:03] [Server thread/INFO]: [Not Secure] <LaCiri> chucha
-[21:36:23] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to LaCiri]
-[21:36:59] [Server thread/INFO]: [Not Secure] <LaCiri> manoooo
-[21:37:05] [Server thread/INFO]: [Not Secure] <Shadowne_> regrese
-[21:37:11] [Server thread/INFO]: [Not Secure] <LaCiri> tienes comida?
-[21:37:17] [Server thread/INFO]: [Not Secure] <LaCiri> gracias
-[21:37:17] [Server thread/INFO]: [Not Secure] <Shadowne_> slo un pescao
-[21:37:28] [Server thread/INFO]: [Not Secure] <LaCiri> upaaa
-[21:37:32] [Server thread/INFO]: [Not Secure] <LaCiri> al fin vidaa
-[21:38:21] [Server thread/INFO]: [Not Secure] <LaCiri> asu
-[21:39:14] [Server thread/INFO]: [Not Secure] <Shadowne_> pon horno
-[21:39:27] [Server thread/INFO]: LaCiri has made the advancement [Isn't It Iron Pick]
-[21:39:32] [Server thread/INFO]: [Not Secure] <Shadowne_> tienes carbon? xd
-[21:39:44] [Server thread/INFO]: [Not Secure] <LaCiri> upa
-[21:39:49] [Server thread/INFO]: Shadowne_ has made the advancement [Isn't It Iron Pick]
-[21:39:56] [Server thread/INFO]: [Not Secure] <Shadowne_> gracias
-[21:40:01] [Server thread/INFO]: [Not Secure] <LaCiri> va
-[21:40:04] [Server thread/INFO]: Shadowne_ lost connection: Disconnected
-[21:40:04] [Server thread/INFO]: Shadowne_ left the game
-[21:40:07] [Server thread/INFO]: Shadowne_[/127.73.121.19:49025] logged in with entity id 4683 at (-20.3652299615776, 3.0, 264.6111510259147)
-[21:40:07] [Server thread/INFO]: Shadowne_ joined the game
-[21:40:13] [Server thread/INFO]: [Not Secure] <LaCiri> xd?
-[21:40:16] [Server thread/INFO]: [Not Secure] <Shadowne_> le aprete sin querer a salir XD
-[21:41:17] [Server thread/INFO]: [Not Secure] <LaCiri> polvoraaaa
-[21:41:25] [Server thread/INFO]: [Not Secure] <Shadowne_> uy
-[21:41:26] [Server thread/INFO]: [Not Secure] <LaCiri> a ver si bombardeo el colegio
-[21:41:53] [Server thread/INFO]: Shadowne_ has made the advancement [Not Today, Thank You]
-[21:43:18] [Server thread/INFO]: LaCiri has made the advancement [Not Today, Thank You]
-[21:43:44] [Server thread/INFO]: [Not Secure] <LaCiri> gracias xd
-[21:43:47] [Server thread/INFO]: [Not Secure] <Shadowne_> xd
-[21:44:04] [Server thread/INFO]: [Not Secure] <Shadowne_> ahora que veo
-[21:44:10] [Server thread/INFO]: [Not Secure] <LaCiri> que cosa
-[21:44:11] [Server thread/INFO]: [Not Secure] <Shadowne_> el alex se parece a clarence
-[21:44:15] [Server thread/INFO]: [Not Secure] <LaCiri> XD
-[21:44:21] [Server thread/INFO]: [Not Secure] <Shadowne_> cuando perdio a su amiguito
-[21:44:31] [Server thread/INFO]: LaCiri has made the advancement [Take Aim]
-[21:44:55] [Server thread/INFO]: Shadowne_ was slain by LaCiri
-[21:45:03] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to LaCiri]
-[21:45:15] [Server thread/INFO]: LaCiri was shot by Skeleton
-[21:45:18] [Server thread/INFO]: [Not Secure] <LaCiri> NOOO
-[21:45:23] [Server thread/INFO]: [Shadowne_: Teleported LaCiri to Shadowne_]
-[21:45:29] [Server thread/INFO]: [Not Secure] <Shadowne_> la remonte
-[21:45:43] [Server thread/INFO]: [Not Secure] <LaCiri> grax xd
-[21:45:49] [Server thread/INFO]: [Not Secure] <Shadowne_> soy un crack
-[21:46:04] [Server thread/INFO]: [Not Secure] <LaCiri> toma tu escudo
-[21:46:16] [Server thread/INFO]: [Not Secure] <Shadowne_> mi precioso
-[21:46:24] [Server thread/INFO]: [Not Secure] <LaCiri> xd
-[21:46:31] [Server thread/INFO]: [Not Secure] <Shadowne_> el escudo me salva
-[21:46:38] [Server thread/INFO]: [Not Secure] <LaCiri> tienes horno?
-[21:46:45] [Server thread/INFO]: [Not Secure] <Shadowne_> no
-[21:47:01] [Server thread/INFO]: [Not Secure] <Shadowne_> ven
-[21:47:22] [Server thread/INFO]: [Shadowne_: Teleported LaCiri to Shadowne_]
-[21:47:24] [Server thread/INFO]: Shadowne_ was slain by LaCiri
-[21:47:29] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to LaCiri]
-[21:47:34] [Server thread/INFO]: [Not Secure] <LaCiri> xd
-[21:47:39] [Server thread/INFO]: [Not Secure] <LaCiri> perdon
-[21:47:39] [Server thread/INFO]: [Not Secure] <Shadowne_> me mandaste a mi muerte
-[21:47:45] [Server thread/INFO]: [Not Secure] <LaCiri> xdd
-[21:47:49] [Server thread/INFO]: [Not Secure] <Shadowne_> me hicieron un trio
-[21:47:51] [Server thread/INFO]: [Not Secure] <Shadowne_> pippip
-[21:48:05] [Server thread/INFO]: [Not Secure] <Shadowne_> 27 de hierro
-[21:48:09] [Server thread/INFO]: [Not Secure] <LaCiri> upa
-[21:48:10] [Server thread/INFO]: [Not Secure] <LaCiri> dame
-[21:48:25] [Server thread/INFO]: [Not Secure] <Shadowne_> toma la mitad
-[21:48:32] [Server thread/INFO]: [Not Secure] <LaCiri> grax
-[21:48:53] [Server thread/INFO]: LaCiri lost connection: Disconnected
-[21:48:53] [Server thread/INFO]: LaCiri left the game
+[31May2025 03:37:42.800] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[31May2025 03:37:42.805] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[31May2025 03:37:42.976] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/jheremitos/servidor_minecraft/config/fml.toml is not correct. Correcting
+[31May2025 03:37:42.979] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[31May2025 03:37:42.979] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[31May2025 03:37:42.980] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[31May2025 03:37:42.980] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[31May2025 03:37:43.026] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[31May2025 03:37:43.106] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/jheremitos/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[31May2025 03:37:43.326] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jheremitos/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[31May2025 03:37:43.329] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jheremitos/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31May2025 03:37:43.331] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jheremitos/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31May2025 03:37:43.332] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jheremitos/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31May2025 03:37:43.421] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[31May2025 03:37:45.077] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[31May2025 03:37:50.766] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[31May2025 03:37:50.768] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[31May2025 03:37:51.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[31May2025 03:37:51.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[31May2025 03:37:52.502] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[31May2025 03:37:52.548] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jheremitos/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[31May2025 03:37:52.549] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jheremitos/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[31May2025 03:37:54.413] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[31May2025 03:37:54.548] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[31May2025 03:37:54.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[31May2025 03:37:54.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[31May2025 03:37:54.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[31May2025 03:37:54.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[31May2025 03:37:55.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[31May2025 03:37:55.094] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[31May2025 03:37:55.190] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[31May2025 03:37:55.190] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[31May2025 03:37:55.191] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[31May2025 03:37:55.192] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[31May2025 03:37:55.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[31May2025 03:37:55.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[31May2025 03:37:55.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[31May2025 03:37:55.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[31May2025 03:37:55.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[31May2025 03:37:55.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[31May2025 03:37:55.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[31May2025 03:37:55.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[31May2025 03:37:55.223] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[31May2025 03:37:55.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[31May2025 03:38:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[31May2025 03:38:02.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 03:38:02.629] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 03:38:02.670] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 03:38:03.202] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 03:38:03.687] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 03:38:04.272] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 03:38:04.684] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 03:38:05.191] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[31May2025 03:38:05.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[31May2025 03:38:06.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[31May2025 03:38:06.676] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[31May2025 03:38:07.196] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[31May2025 03:38:07.678] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[31May2025 03:38:08.180] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[31May2025 03:38:08.701] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[31May2025 03:38:09.171] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[31May2025 03:38:09.676] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[31May2025 03:38:10.185] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[31May2025 03:38:10.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[31May2025 03:38:11.176] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[31May2025 03:38:11.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[31May2025 03:38:12.175] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[31May2025 03:38:12.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
+[31May2025 03:38:13.183] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[31May2025 03:38:13.672] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[31May2025 03:38:14.170] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[31May2025 03:38:14.673] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[31May2025 03:38:15.171] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[31May2025 03:38:15.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[31May2025 03:38:16.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[31May2025 03:38:16.673] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[31May2025 03:38:17.180] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[31May2025 03:38:17.672] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[31May2025 03:38:18.170] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[31May2025 03:38:18.702] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[31May2025 03:38:19.188] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[31May2025 03:38:19.678] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
+[31May2025 03:38:20.173] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[31May2025 03:38:20.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[31May2025 03:38:21.179] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[31May2025 03:38:21.680] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[31May2025 03:38:22.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[31May2025 03:38:22.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[31May2025 03:38:23.173] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[31May2025 03:38:23.683] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[31May2025 03:38:24.178] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[31May2025 03:38:24.671] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[31May2025 03:38:25.171] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[31May2025 03:38:25.683] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[31May2025 03:38:26.170] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[31May2025 03:38:26.729] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[31May2025 03:38:27.175] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[31May2025 03:38:27.695] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[31May2025 03:38:28.186] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[31May2025 03:38:28.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[31May2025 03:38:29.194] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[31May2025 03:38:29.240] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 27571 ms
+[31May2025 03:38:29.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.030s)! For help, type "help"
+[31May2025 03:38:29.256] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[31May2025 03:39:09.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@222632da[id=<null>,name=Shadowne_,properties={},legacy=false] (/127.73.121.19:36513) lost connection: Disconnected
+[31May2025 03:39:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31May2025 03:39:40.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 03:39:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 03:39:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 03:39:41.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31May2025 03:39:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31May2025 03:39:44.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31May2025 03:39:44.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31May2025 03:39:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31May2025 03:39:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31May2025 03:39:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
