@@ -636,3 +636,27 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [01Jun2025 21:53:27.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
 [01Jun2025 21:53:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
 [01Jun2025 21:53:30.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported aron121 to Shadowne_]
+[01Jun2025 21:54:07.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 21:54:08.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[01Jun2025 21:54:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 21:54:17.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 21:59:44.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 21:59:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jun2025 22:00:08.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
+[01Jun2025 22:01:08.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
+[01Jun2025 22:03:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Call of the Ancients]
+[01Jun2025 22:08:33.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ lost connection: Disconnected
+[01Jun2025 22:08:33.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ left the game
+[01Jun2025 22:08:33.592] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shadowne_
+[01Jun2025 22:08:48.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 22:08:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDD<--[HERE]
+[01Jun2025 22:09:20.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadowne_[/127.73.121.19:51277] logged in with entity id 46320 at (1087.8093550181163, 76.0, 957.3940542063659)
+[01Jun2025 22:09:20.969] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Shadowne_
+[01Jun2025 22:09:20.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ joined the game
+[01Jun2025 22:09:21.024] [Server thread/INFO] [Jade/]: Syncing config to Shadowne_ (a846feb1-a590-3c81-a521-bdc6e6e92708)
+[01Jun2025 22:09:21.300] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shadowne_ (18)
+[01Jun2025 22:09:21.301] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shadowne_
+[01Jun2025 22:09:22.063] [Server thread/INFO] [do_a_barrel_roll/]: Client of Shadowne_ accepted server config.
+[01Jun2025 22:09:24.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a846feb1-a590-3c81-a521-bdc6e6e92708
+[01Jun2025 22:09:25.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a846feb1-a590-3c81-a521-bdc6e6e92708
+[01Jun2025 22:09:25.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Shadowne_ (a846feb1-a590-3c81-a521-bdc6e6e92708) successfully connected to voice chat
