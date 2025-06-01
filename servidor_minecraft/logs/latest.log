@@ -599,3 +599,40 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [01Jun2025 21:08:30.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
 [01Jun2025 21:10:47.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
 [01Jun2025 21:13:08.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
+[01Jun2025 21:18:37.900] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carpenter'/18840, l='ServerLevel[world]', x=-441.30, y=109.00, z=2295.77] died, message: 'Carpenter was slain by Zombie'
+[01Jun2025 21:30:43.819] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[01Jun2025 21:30:58.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ moved wrongly!
+[01Jun2025 21:31:12.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to 136.500000, 85.500000, 864.500000]
+[01Jun2025 21:32:11.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ moved wrongly!
+[01Jun2025 21:32:13.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
+[01Jun2025 21:38:30.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ moved wrongly!
+[01Jun2025 21:38:47.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Ice Bucket Challenge]
+[01Jun2025 21:41:44.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ fell from a high place
+[01Jun2025 21:41:46.687] [Server thread/INFO] [do_a_barrel_roll/]: Client of Shadowne_ accepted server config.
+[01Jun2025 21:41:50.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[01Jun2025 21:43:03.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 7.690459568273809,-5.4825760713583804E-6,7.013206657541559
+[01Jun2025 21:43:03.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 7.982554379732392,-5.6716304186466004E-6,7.3754398998373745
+[01Jun2025 21:43:03.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 8.274186602564441,-5.8606847659348205E-6,7.7414551194556225
+[01Jun2025 21:43:03.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 8.565429511037564,-6.0497391132230405E-6,8.110860309525606
+[01Jun2025 21:43:03.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 8.856358110647761,-6.2387934605112605E-6,8.483294350518236
+[01Jun2025 21:43:03.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 9.147057313306505,-6.4278478077994805E-6,8.858453083359109
+[01Jun2025 21:43:03.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 9.437905484678367,0.003950829296755387,9.23652515049912
+[01Jun2025 21:43:03.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 9.72922824971397,0.014978126944512837,9.617625715495251
+[01Jun2025 21:43:03.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 10.021300794451463,0.0354786491456025,10.00181175336661
+[01Jun2025 21:43:03.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 10.314350769389875,0.06726229083238877,10.389094652474341
+[01Jun2025 21:43:03.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of aron121) moved too quickly! 10.608564861829564,0.11164503922513802,10.7794482359202
+[01Jun2025 21:43:33.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
+[01Jun2025 21:44:14.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
+[01Jun2025 21:44:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadowne_> xdd
+[01Jun2025 21:44:57.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 21:44:57.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdd<--[HERE]
+[01Jun2025 21:45:25.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ moved wrongly!
+[01Jun2025 21:45:33.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
+[01Jun2025 21:51:44.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [The Cutest Predator]
+[01Jun2025 21:52:39.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 21:52:42.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 21:52:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 21:52:45.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[01Jun2025 21:53:27.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 21:53:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 21:53:30.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported aron121 to Shadowne_]
