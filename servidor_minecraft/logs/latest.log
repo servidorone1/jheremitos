@@ -686,3 +686,74 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [01Jun2025 22:42:53.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
 [01Jun2025 22:43:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
 [01Jun2025 22:44:07.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 22:45:37.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-15, z=1019} BlockPos{x=998, y=-16, z=1018}
+[01Jun2025 22:48:05.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 22:48:21.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 22:48:31.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported aron121 to Shadowne_]
+[01Jun2025 22:49:38.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved too quickly! -5.573908209668161,-2.0,-8.09917490299506
+[01Jun2025 22:51:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[01Jun2025 22:51:59.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Quite the Renovation]
+[01Jun2025 22:52:00.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Quite the Renovation]
+[01Jun2025 22:52:01.112] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[01Jun2025 22:52:01.114] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[01Jun2025 22:56:18.566] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[01Jun2025 22:56:18.576] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[01Jun2025 22:59:24.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 22:59:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 22:59:52.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 23:00:56.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 23:02:00.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[01Jun2025 23:03:03.015] [IO-Worker-113/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [55, -2]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jun2025 23:03:59.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Disconnected
+[01Jun2025 23:03:59.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[01Jun2025 23:03:59.696] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[01Jun2025 23:04:06.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.42.106.217:49839] logged in with entity id 68488 at (926.3000000119209, -54.0, 784.2829921600636)
+[01Jun2025 23:04:06.468] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[01Jun2025 23:04:06.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[01Jun2025 23:04:06.540] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[01Jun2025 23:04:06.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[01Jun2025 23:04:06.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[01Jun2025 23:04:07.144] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[01Jun2025 23:04:09.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[01Jun2025 23:04:10.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[01Jun2025 23:04:10.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[01Jun2025 23:06:09.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 tried to swim in lava
+[01Jun2025 23:06:11.276] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[01Jun2025 23:06:17.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[01Jun2025 23:08:25.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Cover Me with Diamonds]
+[01Jun2025 23:09:35.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Disconnected
+[01Jun2025 23:09:35.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[01Jun2025 23:09:35.944] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[01Jun2025 23:11:47.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 23:11:48.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[01Jun2025 23:12:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 23:12:27.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 23:12:32.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 23:12:33.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 23:12:47.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.42.106.217:55395] logged in with entity id 69989 at (1087.533854619879, 76.0, 957.1907661325771)
+[01Jun2025 23:12:47.766] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[01Jun2025 23:12:47.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[01Jun2025 23:12:47.836] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[01Jun2025 23:12:48.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[01Jun2025 23:12:48.766] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[01Jun2025 23:12:49.198] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[01Jun2025 23:12:51.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[01Jun2025 23:12:52.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[01Jun2025 23:12:52.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[01Jun2025 23:13:34.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Enchanter]
