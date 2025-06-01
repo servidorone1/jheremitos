@@ -757,3 +757,83 @@ java.util.ConcurrentModificationException: null
 [01Jun2025 23:12:52.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
 [01Jun2025 23:12:52.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
 [01Jun2025 23:13:34.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Enchanter]
+[01Jun2025 23:16:51.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved too quickly! 3.391562755939958,-5.747796659746271,-7.530215358665032
+[01Jun2025 23:17:18.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac2a23d8-26e5-3794-b8bb-82982dc3fd63 timed out
+[01Jun2025 23:17:18.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player aron121
+[01Jun2025 23:17:18.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[01Jun2025 23:17:28.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: You logged in from another location
+[01Jun2025 23:17:28.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[01Jun2025 23:17:28.346] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[01Jun2025 23:17:28.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.42.106.217:57497] logged in with entity id 70681 at (1079.4517475506939, 73.0, 942.6999999880791)
+[01Jun2025 23:17:28.366] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[01Jun2025 23:17:28.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[01Jun2025 23:17:28.430] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[01Jun2025 23:17:28.598] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[01Jun2025 23:17:28.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[01Jun2025 23:17:29.006] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[01Jun2025 23:17:30.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[01Jun2025 23:17:31.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[01Jun2025 23:17:31.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[01Jun2025 23:18:36.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 23:18:37.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[01Jun2025 23:19:01.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[01Jun2025 23:19:02.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[01Jun2025 23:19:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 23:20:18.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved too quickly! 1.1437886347732729,10.062555047010278,0.4240015827136858
+[01Jun2025 23:23:24.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac2a23d8-26e5-3794-b8bb-82982dc3fd63 timed out
+[01Jun2025 23:23:24.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player aron121
+[01Jun2025 23:23:24.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[01Jun2025 23:23:28.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Timed out
+[01Jun2025 23:23:28.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[01Jun2025 23:23:28.896] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[01Jun2025 23:24:39.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.78.66.122:39473] logged in with entity id 72640 at (1083.9922753112871, 76.0, 955.0548720797536)
+[01Jun2025 23:24:39.016] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[01Jun2025 23:24:39.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[01Jun2025 23:24:39.086] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[01Jun2025 23:24:39.942] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[01Jun2025 23:24:39.943] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[01Jun2025 23:24:40.323] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[01Jun2025 23:24:42.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[01Jun2025 23:24:43.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[01Jun2025 23:24:43.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[01Jun2025 23:28:41.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 was shot by Shadowne_
+[01Jun2025 23:28:42.550] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[01Jun2025 23:35:18.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ moved wrongly!
+[01Jun2025 23:35:20.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved wrongly!
+[01Jun2025 23:36:11.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[01Jun2025 23:36:19.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 23:37:19.208] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[01Jun2025 23:37:19.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6088ms or 121 ticks behind
+[01Jun2025 23:37:19.981] [Server thread/INFO] [do_a_barrel_roll/]: Client of Shadowne_ accepted server config.
+[01Jun2025 23:37:34.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Light-Sensitive]
+[01Jun2025 23:37:34.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/75431, l='ServerLevel[world]', x=115.98, y=71.00, z=132.33] died: Desert Blaze was shot by aron121
+[01Jun2025 23:37:35.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/75430, l='ServerLevel[world]', x=119.70, y=74.00, z=131.11] died: Desert Blaze was shot by aron121
+[01Jun2025 23:38:04.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/75450, l='ServerLevel[world]', x=94.70, y=62.91, z=154.30] died: Desert Blaze was shot by aron121
+[01Jun2025 23:39:11.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76110, l='ServerLevel[world]', x=44.02, y=58.54, z=133.35] died: Desert Blaze was shot by Shadowne_
+[01Jun2025 23:39:19.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76047, l='ServerLevel[world]', x=56.96, y=60.10, z=135.28] died: Desert Blaze was shot by aron121
+[01Jun2025 23:39:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has completed the challenge [Border of Life]
+[01Jun2025 23:39:35.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76255, l='ServerLevel[world]', x=25.35, y=45.61, z=121.61] died: Desert Blaze was shot by aron121
+[01Jun2025 23:39:48.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has completed the challenge [Border of Life]
+[01Jun2025 23:39:48.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76108, l='ServerLevel[world]', x=27.68, y=49.82, z=126.97] died: Desert Blaze was shot by Shadowne_
+[01Jun2025 23:39:58.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Pipe Dream]
+[01Jun2025 23:40:02.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Pipe Dream]
+[01Jun2025 23:40:11.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has reached the goal [Ceci n'est pas un blaze]
+[01Jun2025 23:40:11.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/75593, l='ServerLevel[world]', x=20.04, y=48.20, z=68.85] died: Pipeline Sentry was shot by aron121
+[01Jun2025 23:40:28.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [UNLIMITED POWER!!!]
+[01Jun2025 23:40:39.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has reached the goal [Ceci n'est pas un blaze]
+[01Jun2025 23:40:39.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/75596, l='ServerLevel[world]', x=21.70, y=48.20, z=67.12] died: Pipeline Sentry was shot by Shadowne_
+[01Jun2025 23:40:48.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76464, l='ServerLevel[world]', x=21.49, y=35.24, z=65.97] died: Desert Blaze was shot by Shadowne_
+[01Jun2025 23:41:04.170] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/76674, l='ServerLevel[world]', x=125.00, y=31.00, z=-159.00] as it would cause deadlock
+[01Jun2025 23:41:04.212] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/76680, l='ServerLevel[world]', x=130.00, y=31.00, z=-148.00] as it would cause deadlock
+[01Jun2025 23:41:05.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76425, l='ServerLevel[world]', x=21.49, y=34.00, z=60.33] died: Desert Blaze was shot by aron121
+[01Jun2025 23:41:20.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/1224, l='ServerLevel[world]', x=18.70, y=35.20, z=80.14] died: Pipeline Sentry was shot by aron121
+[01Jun2025 23:41:23.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76465, l='ServerLevel[world]', x=20.64, y=34.26, z=57.21] died: Desert Blaze was shot by Shadowne_
+[01Jun2025 23:41:39.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76466, l='ServerLevel[world]', x=24.74, y=34.00, z=51.88] died: Desert Blaze was shot by aron121
+[01Jun2025 23:41:41.249] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76467, l='ServerLevel[world]', x=25.35, y=35.20, z=53.27] died: Desert Blaze was shot by aron121
+[01Jun2025 23:42:02.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/75767, l='ServerLevel[world]', x=11.09, y=33.36, z=20.41] died: Pipeline Sentry was shot by aron121
+[01Jun2025 23:42:18.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/75539, l='ServerLevel[world]', x=40.86, y=33.20, z=24.68] died: Pipeline Sentry was shot by aron121
+[01Jun2025 23:42:30.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/75603, l='ServerLevel[world]', x=47.65, y=35.48, z=25.63] died: Pipeline Sentry was shot by aron121
+[01Jun2025 23:44:00.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/75843, l='ServerLevel[world]', x=-42.86, y=33.00, z=24.64] died: Pipeline Sentry was shot by aron121
+[01Jun2025 23:45:18.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[01Jun2025 23:45:24.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[01Jun2025 23:45:36.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/77494, l='ServerLevel[world]', x=-35.79, y=48.30, z=-37.68] died: Desert Blaze was shot by aron121
