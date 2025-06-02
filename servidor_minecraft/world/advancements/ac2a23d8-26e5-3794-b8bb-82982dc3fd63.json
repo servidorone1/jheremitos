@@ -5801,77 +5801,107 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/redstone/stone_button": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "supplementaries:recipes/stone_lamp": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_pink_tulip": "2025-06-02 01:37:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-02 01:27:31 +0000"
+      "has_stone": "2025-06-02 01:43:03 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2025-06-02 01:37:05 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
