@@ -46,3 +46,18 @@
 [02Jun2025 00:23:59.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
 [02Jun2025 00:24:00.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
 [02Jun2025 00:24:00.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[02Jun2025 00:26:29.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 00:26:29.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[02Jun2025 00:27:05.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported aron121 to Shadowne_]
+[02Jun2025 00:27:53.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/77093, l='ServerLevel[world]', x=-186.94, y=33.00, z=93.38] died: Piglin Civilian fell from a high place
+[02Jun2025 00:28:12.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadowne_> mataste a los bosses?
+[02Jun2025 00:28:22.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadowne_> chale
+[02Jun2025 00:28:28.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/83922, l='ServerLevel[world]', x=-36.53, y=10.00, z=8.34] died: Desert Blaze was shot by Shadowne_
+[02Jun2025 00:29:33.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [UNLIMITED POWER!!!]
+[02Jun2025 00:30:24.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 was slain by Shadowne_
+[02Jun2025 00:30:25.759] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[02Jun2025 00:30:32.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[02Jun2025 00:30:33.003] [Server thread/INFO] [do_a_barrel_roll/]: Client of Shadowne_ accepted server config.
+[02Jun2025 00:35:31.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[02Jun2025 00:35:54.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[02Jun2025 00:36:05.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Looks Like Emerald to Me]
