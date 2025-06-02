@@ -1,1 +1,19 @@
 [02Jun2025 00:03:57.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/81762, l='ServerLevel[world]', x=276.70, y=55.38, z=45.30] died: Desert Blaze was slain by aron121
+[02Jun2025 00:06:15.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/82022, l='ServerLevel[world]', x=220.31, y=39.00, z=5.51] died: Desert Blaze was shot by aron121
+[02Jun2025 00:07:54.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/82776, l='ServerLevel[world]', x=199.70, y=39.60, z=120.81] died: Desert Blaze was shot by aron121
+[02Jun2025 00:10:26.733] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/83572, l='ServerLevel[world]', x=249.00, y=31.00, z=425.00] as it would cause deadlock
+[02Jun2025 00:11:02.773] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/83703, l='ServerLevel[world]', x=252.00, y=31.00, z=443.00] as it would cause deadlock
+[02Jun2025 00:11:15.433] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/83589, l='ServerLevel[world]', x=287.30, y=54.16, z=247.62] died: Desert Blaze was shot by aron121
+[02Jun2025 00:13:33.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Timed out
+[02Jun2025 00:13:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[02Jun2025 00:13:33.808] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[02Jun2025 00:13:49.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.78.66.122:50987] logged in with entity id 84687 at (220.35709014342902, 42.0, 300.6894063878228)
+[02Jun2025 00:13:49.267] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[02Jun2025 00:13:49.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[02Jun2025 00:13:49.283] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[02Jun2025 00:13:49.483] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[02Jun2025 00:13:49.483] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[02Jun2025 00:13:49.879] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[02Jun2025 00:13:52.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 00:13:53.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 00:13:53.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
