@@ -64,3 +64,6 @@
 [02Jun2025 00:41:25.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved too quickly! -1.4588235679541413,3.0,-9.501622025288157
 [02Jun2025 00:45:45.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Jun2025 00:45:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[02Jun2025 00:51:43.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[02Jun2025 00:51:51.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[02Jun2025 00:55:56.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Looks Like Emerald to Me]

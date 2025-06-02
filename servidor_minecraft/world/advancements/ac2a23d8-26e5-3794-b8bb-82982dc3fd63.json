@@ -5464,6 +5464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-02 00:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-02 00:41:35 +0000"
@@ -5476,6 +5482,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-06-02 00:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-06-02 00:41:35 +0000"
@@ -5485,6 +5497,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-02 00:41:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-06-02 00:53:23 +0000"
     },
     "done": true
   },
