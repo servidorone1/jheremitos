@@ -17,3 +17,32 @@
 [02Jun2025 00:13:52.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
 [02Jun2025 00:13:53.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
 [02Jun2025 00:13:53.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[02Jun2025 00:17:15.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac2a23d8-26e5-3794-b8bb-82982dc3fd63 timed out
+[02Jun2025 00:17:15.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player aron121
+[02Jun2025 00:17:15.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[02Jun2025 00:17:34.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Timed out
+[02Jun2025 00:17:34.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[02Jun2025 00:17:34.656] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[02Jun2025 00:21:53.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.42.106.217:58165] logged in with entity id 86257 at (111.30000001192093, 50.0, 386.30000001192093)
+[02Jun2025 00:21:53.872] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[02Jun2025 00:21:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[02Jun2025 00:21:53.885] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[02Jun2025 00:21:54.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[02Jun2025 00:21:54.766] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[02Jun2025 00:21:55.107] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[02Jun2025 00:21:55.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 00:21:56.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 00:21:56.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[02Jun2025 00:23:52.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Disconnected
+[02Jun2025 00:23:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[02Jun2025 00:23:52.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[02Jun2025 00:23:58.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.42.106.217:35545] logged in with entity id 86771 at (102.60372101803355, 35.0, 351.30000001192093)
+[02Jun2025 00:23:58.517] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[02Jun2025 00:23:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[02Jun2025 00:23:58.530] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[02Jun2025 00:23:58.764] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[02Jun2025 00:23:58.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[02Jun2025 00:23:58.954] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[02Jun2025 00:23:59.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 00:24:00.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 00:24:00.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
