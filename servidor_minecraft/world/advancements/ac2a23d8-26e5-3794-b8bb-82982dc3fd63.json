@@ -1782,6 +1782,7 @@
       "sweet_berries": "2025-06-01 03:21:41 +0000",
       "cooked_beef": "2025-06-02 00:02:42 +0000",
       "beef": "2025-06-02 00:42:57 +0000",
+      "porkchop": "2025-06-02 01:09:35 +0000",
       "apple": "2025-06-01 01:39:31 +0000",
       "pumpkin_pie": "2025-06-02 00:28:35 +0000",
       "bread": "2025-06-01 00:42:24 +0000",
@@ -5476,6 +5477,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_lizard_tail": {
+    "criteria": {
+      "has_lizard_tail": "2025-06-02 01:10:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-06-02 00:56:39 +0000"
@@ -5503,6 +5510,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-06-02 00:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-02 01:09:08 +0000"
     },
     "done": true
   },
@@ -5542,6 +5555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-02 01:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-02 00:41:35 +0000"
@@ -5557,6 +5576,12 @@
   "naturalist:recipes/food/cooked_venison": {
     "criteria": {
       "has_venison": "2025-06-02 00:45:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-02 01:09:08 +0000"
     },
     "done": true
   },
@@ -5617,6 +5642,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 00:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-02 01:09:08 +0000"
     },
     "done": true
   },
