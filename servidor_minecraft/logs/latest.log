@@ -72,3 +72,42 @@
 [02Jun2025 01:06:19.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
 [02Jun2025 01:06:21.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
 [02Jun2025 01:16:09.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadowne_> xd
+[02Jun2025 01:18:58.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[02Jun2025 01:19:28.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[02Jun2025 01:20:02.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[02Jun2025 01:20:21.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[02Jun2025 01:20:30.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[02Jun2025 01:20:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[02Jun2025 01:21:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[02Jun2025 01:21:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[02Jun2025 01:24:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[02Jun2025 01:24:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[02Jun2025 01:26:34.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Timed out
+[02Jun2025 01:26:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[02Jun2025 01:26:34.544] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[02Jun2025 01:26:42.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.42.106.217:37269] logged in with entity id 102932 at (1086.0223532945745, 76.0, 952.8133602810022)
+[02Jun2025 01:26:42.015] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[02Jun2025 01:26:42.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[02Jun2025 01:26:42.074] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[02Jun2025 01:26:42.244] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[02Jun2025 01:26:42.245] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[02Jun2025 01:26:42.674] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[02Jun2025 01:26:44.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 01:26:45.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 01:26:45.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[02Jun2025 01:27:12.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Timed out
+[02Jun2025 01:27:12.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[02Jun2025 01:27:12.094] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[02Jun2025 01:27:18.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.42.106.217:39401] logged in with entity id 102988 at (1085.4259720978864, 76.0, 953.047515026402)
+[02Jun2025 01:27:18.562] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[02Jun2025 01:27:18.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[02Jun2025 01:27:18.614] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[02Jun2025 01:27:18.795] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[02Jun2025 01:27:18.796] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[02Jun2025 01:27:19.069] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[02Jun2025 01:27:22.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 01:27:23.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[02Jun2025 01:27:23.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[02Jun2025 01:27:48.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Timed out
+[02Jun2025 01:27:48.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
+[02Jun2025 01:27:48.697] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121

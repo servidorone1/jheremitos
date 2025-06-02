@@ -4882,6 +4882,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-06-02 00:53:09 +0000"
@@ -4891,6 +4897,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-02 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
     },
     "done": true
   },
@@ -4918,9 +4930,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-02 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
     },
     "done": true
   },
@@ -4966,9 +5002,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-06-02 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
     },
     "done": true
   },
@@ -4981,6 +5029,12 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-06-02 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
     },
     "done": true
   },
@@ -4999,6 +5053,12 @@
   "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
       "requirement": "2025-06-02 00:29:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-02 01:19:19 +0000"
     },
     "done": true
   },
