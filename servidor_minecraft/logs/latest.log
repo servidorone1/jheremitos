@@ -540,3 +540,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [04Jun2025 02:10:47.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a846feb1-a590-3c81-a521-bdc6e6e92708
 [04Jun2025 02:10:48.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a846feb1-a590-3c81-a521-bdc6e6e92708
 [04Jun2025 02:10:48.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Shadowne_ (a846feb1-a590-3c81-a521-bdc6e6e92708) successfully connected to voice chat
+[04Jun2025 02:36:32.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jun2025 02:36:32.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[04Jun2025 02:39:22.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ lost connection: Disconnected
+[04Jun2025 02:39:22.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ left the game
+[04Jun2025 02:39:22.421] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shadowne_
