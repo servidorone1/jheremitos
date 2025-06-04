@@ -966,6 +966,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-01 22:16:09 +0000",
+      "cooked_mutton": "2025-06-04 02:15:42 +0000",
       "sweet_berries": "2025-06-03 00:14:11 +0000",
       "cooked_beef": "2025-06-01 02:35:55 +0000",
       "baked_potato": "2025-06-01 01:47:02 +0000",
@@ -5133,6 +5134,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-06-04 02:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-04 02:24:33 +0000"
     },
     "done": true
   },
