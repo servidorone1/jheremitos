@@ -552,3 +552,17 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [06Jun2025 00:23:14.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 lost connection: Disconnected
 [06Jun2025 00:23:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 left the game
 [06Jun2025 00:23:14.194] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aron121
+[06Jun2025 00:25:07.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[06Jun2025 00:25:30.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[06Jun2025 00:27:29.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aron121[/127.42.106.217:55103] logged in with entity id 2353 at (-369.69999998807907, 112.0, 2291.1655386856914)
+[06Jun2025 00:27:29.701] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aron121
+[06Jun2025 00:27:29.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 joined the game
+[06Jun2025 00:27:29.713] [Server thread/INFO] [Jade/]: Syncing config to aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63)
+[06Jun2025 00:27:30.847] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aron121 (18)
+[06Jun2025 00:27:30.848] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aron121
+[06Jun2025 00:27:31.229] [Server thread/INFO] [do_a_barrel_roll/]: Client of aron121 accepted server config.
+[06Jun2025 00:27:32.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[06Jun2025 00:27:33.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac2a23d8-26e5-3794-b8bb-82982dc3fd63
+[06Jun2025 00:27:33.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player aron121 (ac2a23d8-26e5-3794-b8bb-82982dc3fd63) successfully connected to voice chat
+[06Jun2025 00:32:34.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2389, l='ServerLevel[world]', x=-411.30, y=100.00, z=2309.70] died, message: 'Unemployed was slain by Zombie'
+[06Jun2025 00:32:43.628] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2390, l='ServerLevel[world]', x=-414.30, y=93.00, z=2307.70] died, message: 'Unemployed was slain by Zombie'

@@ -972,6 +972,7 @@
       "baked_potato": "2025-06-01 01:47:02 +0000",
       "porkchop": "2025-06-01 02:27:12 +0000",
       "apple": "2025-06-01 00:42:08 +0000",
+      "pumpkin_pie": "2025-06-06 00:29:11 +0000",
       "mutton": "2025-06-01 04:22:34 +0000",
       "bread": "2025-06-01 01:17:42 +0000",
       "golden_apple": "2025-06-01 01:36:50 +0000",
@@ -5290,6 +5291,30 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-04 02:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-06 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-06 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-06 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-06 00:21:51 +0000"
     },
     "done": true
   },
